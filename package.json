@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.14",
+    "ts-node": "^10.3.0"
+  },
+  "type": "module",
+  "scripts": {
+    "run": "npx tsc index.ts && node index.js"
+  }
+}
